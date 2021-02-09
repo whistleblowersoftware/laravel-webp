@@ -1,5 +1,5 @@
 {
-    "name": "buglinjo/laravel-webp",
+    "name": "whistleblowersoftware/laravel-webp",
     "type": "library",
     "description": "Laravel 5 package for WebP image format",
     "keywords": [
@@ -8,7 +8,7 @@
         "Webp",
         "Laravel"
     ],
-    "homepage": "https://github.com/buglinjo/laravel-webp",
+    "homepage": "https://github.com/whistleblowersoftware/laravel-webp",
     "license": "MIT",
     "authors": [
         {
@@ -20,7 +20,7 @@
     ],
     "require": {
         "illuminate/support": "~5.1|~6.0|~7.0|~8.0",
-        "php": "~7.1",
+        "php": "~7.1|~8.0",
         "ext-gd": "*"
     },
     "require-dev": {
